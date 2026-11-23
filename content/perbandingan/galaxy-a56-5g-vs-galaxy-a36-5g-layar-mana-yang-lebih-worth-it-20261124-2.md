@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A56 5G vs Galaxy A36 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T00:00:00+07:00
+date: 2026-11-24T01:00:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Galaxy A56 5G"
 produk_b: "Galaxy A36 5G"

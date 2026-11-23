@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs POCO X7 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T00:02:00+07:00
+date: 2026-11-24T01:07:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "realme C75"
 produk_b: "POCO X7"
