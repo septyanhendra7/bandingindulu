@@ -1,6 +1,6 @@
 ---
 title: "realme 12 Pro+ 5G vs Infinix Note 40 Pro+ 5G — Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T16:56:00+07:00
+date: 2026-11-23T18:58:00+07:00
 kategori: "kamera"
 produk_a: "realme 12 Pro+ 5G"
 produk_b: "Infinix Note 40 Pro+ 5G"

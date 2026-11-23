@@ -1,6 +1,6 @@
 ---
 title: "Apple iPhone 15 vs Samsung Galaxy S24 — Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T17:44:00+07:00
+date: 2026-11-23T18:55:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "Apple iPhone 15"
 produk_b: "Samsung Galaxy S24"
