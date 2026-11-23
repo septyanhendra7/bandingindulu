@@ -1,6 +1,6 @@
 ---
 title: "Apple iPhone 15 vs Samsung Galaxy S24 — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T05:11:00+07:00
+date: 2026-11-24T06:12:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Apple iPhone 15"
 produk_b: "Samsung Galaxy S24"

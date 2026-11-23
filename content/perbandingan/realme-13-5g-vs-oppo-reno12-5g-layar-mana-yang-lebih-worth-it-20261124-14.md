@@ -1,6 +1,6 @@
 ---
 title: "realme 13+ 5G vs OPPO Reno12 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T05:15:00+07:00
+date: 2026-11-24T06:16:00+07:00
 kategori: "layar &amp; display"
 produk_a: "realme 13+ 5G"
 produk_b: "OPPO Reno12 5G"
