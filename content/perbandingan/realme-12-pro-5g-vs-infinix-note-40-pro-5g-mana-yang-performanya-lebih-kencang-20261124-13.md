@@ -1,6 +1,6 @@
 ---
 title: "realme 12 Pro+ 5G vs Infinix Note 40 Pro+ 5G — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T03:12:00+07:00
+date: 2026-11-24T04:13:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "realme 12 Pro+ 5G"
 produk_b: "Infinix Note 40 Pro+ 5G"
