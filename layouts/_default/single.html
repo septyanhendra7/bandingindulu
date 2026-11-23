@@ -1,0 +1,32 @@
+{{ define "title" }}{{ .Title }} — BandinginDulu{{ end }}
+{{ define "main" }}
+<article class="prose-slate">
+  <div class="text-center mb-8">
+    <span class="inline-block text-xs font-semibold tracking-widest uppercase text-sky-600 dark:text-sky-400 border border-sky-300 dark:border-sky-700 rounded-full px-4 py-1.5">{{ .Params.kategori | default "Perbandingan" }}</span>
+    <h1 class="text-3xl sm:text-4xl font-bold mt-4">{{ .Title }}</h1>
+    <time class="text-sm text-slate-400">{{ .Date.Format "2 January 2006" }}</time>
+  </div>
+
+  <div class="flex justify-center items-center gap-6 mb-8">
+    {{ with .Params.img_a }}
+    <div class="text-center"><img src="{{ . }}" alt="{{ $.Params.produk_a }}" class="w-32 h-40 object-contain mx-auto"><div class="font-semibold mt-2">{{ $.Params.produk_a }}</div></div>
+    {{ end }}
+    <div class="text-amber-600 font-bold bg-amber-50 dark:bg-amber-950/40 rounded-full w-14 h-14 flex items-center justify-center">VS</div>
+    {{ with .Params.img_b }}
+    <div class="text-center"><img src="{{ . }}" alt="{{ $.Params.produk_b }}" class="w-32 h-40 object-contain mx-auto"><div class="font-semibold mt-2">{{ $.Params.produk_b }}</div></div>
+    {{ end }}
+  </div>
+
+  <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6">
+    {{ .Content }}
+  </div>
+
+  {{ if .Params.sumber }}
+  <p class="text-sm text-slate-500 dark:text-slate-400 mt-6">
+    <b>Sumber:</b> {{ .Params.sumber }}. Analisis spesifikasi dari sumber resmi — bukan pengalaman pakai.
+  </p>
+  {{ end }}
+
+  <a href="/" class="inline-block mt-8 text-sky-600 dark:text-sky-400 font-medium hover:underline">← Semua perbandingan</a>
+</article>
+{{ end }}

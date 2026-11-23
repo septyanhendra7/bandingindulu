@@ -1,0 +1,13 @@
+{{ define "title" }}Artikel — BandinginDulu{{ end }}
+{{ define "main" }}
+<h1 class="text-3xl font-bold mb-8">Semua Artikel</h1>
+<div class="grid gap-5 sm:grid-cols-2">
+  {{ range .Pages.ByDate.Reverse }}
+  <a href="{{ .RelPermalink }}" class="block bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-5 hover:shadow-md transition">
+    <h2 class="font-semibold text-lg">{{ .Title }}</h2>
+    <p class="text-slate-500 dark:text-slate-400 text-sm mt-1 line-clamp-2">{{ .Description }}</p>
+    <time class="text-xs text-slate-400">{{ .Date.Format "2 Jan 2006" }}</time>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

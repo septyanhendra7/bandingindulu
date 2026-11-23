@@ -1,0 +1,12 @@
+[
+  {{ $pages := where .Site.RegularPages "Section" "perbandingan" }}
+  {{ range $i, $p := $pages }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }},
+    "description": {{ $p.Description | jsonify }},
+    "produk_a": {{ $p.Params.produk_a | jsonify }},
+    "produk_b": {{ $p.Params.produk_b | jsonify }}
+  }{{ if lt (add $i 1) (len $pages) }},{{ end }}
+  {{ end }}
+]

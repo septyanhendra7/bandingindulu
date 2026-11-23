@@ -1,0 +1,21 @@
+baseURL = 'https://bandingindulu.web.id/'
+languageCode = 'id-id'
+title = 'BandinginDulu — Perbandingan Spesifikasi Gadget'
+enableRobotsTXT = true
+
+[params]
+  description = 'Bandingkan spesifikasi gadget sebelum beli. Analisis dari sumber resmi merek.'
+  author = 'BandinginDulu'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+  section = ['HTML', 'RSS']
+
+[outputFormats.JSON]
+  mediaType = 'application/json'
+  baseName = 'index'
+  isPlainText = true
+  notAlternative = true
+
+[markup.goldmark.renderer]
+  unsafe = true

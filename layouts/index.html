@@ -1,0 +1,38 @@
+{{ define "title" }}BandinginDulu — Bandingkan Spesifikasi Gadget Sebelum Beli{{ end }}
+{{ define "main" }}
+<section class="text-center py-8">
+  <span class="inline-block text-xs font-semibold tracking-widest uppercase text-sky-600 dark:text-sky-400 border border-sky-300 dark:border-sky-700 rounded-full px-4 py-1.5">BandinginDulu · sebelum beli</span>
+  <h1 class="text-4xl sm:text-5xl font-bold mt-5 leading-tight">Bandingin dulu,<br><span class="text-sky-600 dark:text-sky-400">baru beli</span></h1>
+  <p class="text-slate-600 dark:text-slate-400 text-lg mt-4 max-w-2xl mx-auto">Bandingkan spesifikasi gadget dari sumber resmi merek. Analisis per kategori, lengkap dengan kesimpulan — pilih sesuai prioritasmu.</p>
+</section>
+
+<section class="mt-10">
+  <h2 class="text-2xl font-bold mb-5">Perbandingan Terbaru</h2>
+  <div class="grid gap-6 sm:grid-cols-2">
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+    {{ $a := .Params.produk_a }}
+    {{ $b := .Params.produk_b }}
+    <a href="{{ .RelPermalink }}" class="block bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-md hover:-translate-y-0.5 transition">
+      <div class="p-5">
+        <div class="flex items-center justify-center gap-3 mb-4">
+          <div class="text-center flex-1">
+            {{ with .Params.img_a }}<img src="{{ . }}" alt="{{ $a }}" class="w-20 h-28 object-contain mx-auto">}{{ end }}
+            <div class="font-semibold mt-2">{{ $a }}</div>
+          </div>
+          <div class="text-amber-600 font-bold text-sm bg-amber-50 dark:bg-amber-950/40 rounded-full w-10 h-10 flex items-center justify-center flex-none">VS</div>
+          <div class="text-center flex-1">
+            {{ with .Params.img_b }}<img src="{{ . }}" alt="{{ $b }}" class="w-20 h-28 object-contain mx-auto">}{{ end }}
+            <div class="font-semibold mt-2">{{ $b }}</div>
+          </div>
+        </div>
+        <p class="text-slate-600 dark:text-slate-400 text-sm line-clamp-2">{{ .Description }}</p>
+        <div class="flex justify-between items-center mt-3 text-xs text-slate-400">
+          <time>{{ .Date.Format "2 Jan 2006" }}</time>
+          <span>Baca →</span>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
