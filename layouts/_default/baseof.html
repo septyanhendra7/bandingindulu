@@ -26,12 +26,12 @@
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 min-h-screen flex flex-col">
   <header class="sticky top-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur border-b border-slate-200 dark:border-slate-800">
     <nav class="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between gap-4">
-      <a href="{{ "/" | relURL }}" class="flex items-center gap-2 font-bold text-sky-600 dark:text-sky-400 whitespace-nowrap">
+      <a href="{{ .Site.Home.RelPermalink }}" class="flex items-center gap-2 font-bold text-sky-600 dark:text-sky-400 whitespace-nowrap">
         <img src="{{ "logo-bd.png" | relURL }}" alt="BandinginDulu" class="w-7 h-7 rounded flex-none">
         <span>BandinginDulu</span>
       </a>
       <div class="flex items-center gap-4 text-sm font-medium flex-none">
-        <a href="{{ "/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400 whitespace-nowrap">Beranda</a>
+        <a href="{{ .Site.Home.RelPermalink }}" class="hover:text-sky-600 dark:hover:text-sky-400 whitespace-nowrap">Beranda</a>
         <a href="{{ "perbandingan/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400 whitespace-nowrap">Perbandingan</a>
         <button id="themeToggle" class="w-8 h-8 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 flex items-center justify-center flex-none" title="Ganti tema">🌙</button>
       </div>
