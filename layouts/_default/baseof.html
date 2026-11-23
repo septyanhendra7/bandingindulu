@@ -6,7 +6,7 @@
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="icon" href="{{ "logo.svg" | relURL }}" type="image/svg+xml">
+  <link rel="icon" href="{{ "logo-bd.png" | relURL }}">
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
@@ -21,7 +21,7 @@
   <header class="sticky top-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur border-b border-slate-200 dark:border-slate-800">
     <nav class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3">
       <a href="{{ "/" | relURL }}" class="flex items-center gap-2 font-bold text-sky-600 dark:text-sky-400">
-        <span class="text-xl">⚔️</span> BandinginDulu
+        <img src="{{ "logo-bd.png" | relURL }}" alt="BandinginDulu" class="w-7 h-7 rounded"> BandinginDulu
       </a>
       <div class="ml-auto flex items-center gap-4 text-sm font-medium">
         <a href="{{ "/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400">Beranda</a>
