@@ -34,17 +34,6 @@ jobs:
           hugo-version: '0.145.0'
           extended: true
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build Tailwind CSS
-        run: ./node_modules/.bin/tailwindcss -i ./assets/css/main.css -o ./static/css/style.css --minify
-
       - name: Build
         run: hugo --minify
 
