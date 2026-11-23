@@ -16,12 +16,12 @@
       <div class="p-5">
         <div class="flex items-center justify-center gap-3 mb-4">
           <div class="text-center flex-1">
-            {{ with .Params.img_a }}<img src="{{ . }}" alt="{{ $a }}" class="w-20 h-28 object-contain mx-auto">}{{ end }}
+            {{ with .Params.img_a }}<img src="{{ . }}" alt="{{ $a }}" class="w-20 h-28 object-contain mx-auto">{{ end }}
             <div class="font-semibold mt-2">{{ $a }}</div>
           </div>
           <div class="text-amber-600 font-bold text-sm bg-amber-50 dark:bg-amber-950/40 rounded-full w-10 h-10 flex items-center justify-center flex-none">VS</div>
           <div class="text-center flex-1">
-            {{ with .Params.img_b }}<img src="{{ . }}" alt="{{ $b }}" class="w-20 h-28 object-contain mx-auto">}{{ end }}
+            {{ with .Params.img_b }}<img src="{{ . }}" alt="{{ $b }}" class="w-20 h-28 object-contain mx-auto">{{ end }}
             <div class="font-semibold mt-2">{{ $b }}</div>
           </div>
         </div>
