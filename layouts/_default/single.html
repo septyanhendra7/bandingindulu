@@ -7,13 +7,19 @@
     <time class="text-sm text-slate-400">{{ .Date.Format "2 January 2006" }}</time>
   </div>
 
-  <div class="flex justify-center items-center gap-6 mb-8">
+  <div class="flex justify-center items-center gap-3 sm:gap-6 mb-8 flex-wrap">
     {{ with .Params.img_a }}
-    <div class="text-center"><img src="{{ . }}" alt="{{ $.Params.produk_a }}" class="w-32 h-40 object-contain mx-auto"><div class="font-semibold mt-2">{{ $.Params.produk_a }}</div></div>
+    <div class="text-center w-24 sm:w-auto">
+      <img src="{{ . }}" alt="{{ $.Params.produk_a }}" class="w-24 h-32 sm:w-32 sm:h-40 object-contain mx-auto">
+      <div class="font-semibold mt-2 text-sm sm:text-base">{{ $.Params.produk_a }}</div>
+    </div>
     {{ end }}
-    <div class="text-amber-600 font-bold bg-amber-50 dark:bg-amber-950/40 rounded-full w-14 h-14 flex items-center justify-center">VS</div>
+    <div class="text-amber-600 font-bold bg-amber-50 dark:bg-amber-950/40 rounded-full w-10 h-10 sm:w-14 sm:h-14 flex items-center justify-center flex-none text-sm sm:text-base">VS</div>
     {{ with .Params.img_b }}
-    <div class="text-center"><img src="{{ . }}" alt="{{ $.Params.produk_b }}" class="w-32 h-40 object-contain mx-auto"><div class="font-semibold mt-2">{{ $.Params.produk_b }}</div></div>
+    <div class="text-center w-24 sm:w-auto">
+      <img src="{{ . }}" alt="{{ $.Params.produk_b }}" class="w-24 h-32 sm:w-32 sm:h-40 object-contain mx-auto">
+      <div class="font-semibold mt-2 text-sm sm:text-base">{{ $.Params.produk_b }}</div>
+    </div>
     {{ end }}
   </div>
 
