@@ -1,6 +1,6 @@
 ---
 title: "Redmi Note 14 Pro+ vs Redmi Note 14 Pro 5G — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T04:11:00+07:00
+date: 2026-11-24T05:12:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "Redmi Note 14 Pro+"
 produk_b: "Redmi Note 14 Pro 5G"
