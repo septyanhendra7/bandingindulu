@@ -1,6 +1,6 @@
 ---
-title: "POCO X7 Pro vs realme 13 Pro 5G: Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T18:18:00+07:00
+title: "POCO X7 Pro vs realme 13 Pro 5G — Perbandingan Spesifikasi Lengkap"
+date: 2026-11-23T17:07:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "POCO X7 Pro"
 produk_b: "realme 13 Pro 5G"

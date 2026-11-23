@@ -1,6 +1,6 @@
 ---
-title: "Galaxy A56 5G vs Galaxy A36 5G: Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T12:07:00+07:00
+title: "Galaxy A56 5G vs Galaxy A36 5G — Perbandingan Spesifikasi Lengkap"
+date: 2026-11-23T11:55:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "Galaxy A56 5G"
 produk_b: "Galaxy A36 5G"

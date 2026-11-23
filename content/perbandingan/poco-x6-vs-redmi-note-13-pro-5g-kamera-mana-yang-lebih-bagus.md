@@ -1,6 +1,6 @@
 ---
-title: "POCO X6 vs Redmi Note 13 Pro 5G: Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T11:55:00+07:00
+title: "POCO X6 vs Redmi Note 13 Pro 5G — Kamera Mana yang Lebih Bagus?"
+date: 2026-11-23T10:42:00+07:00
 kategori: "kamera"
 produk_a: "POCO X6"
 produk_b: "Redmi Note 13 Pro 5G"

@@ -1,6 +1,6 @@
 ---
-title: "realme C75 vs OPPO A3x: Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T13:18:00+07:00
+title: "realme C75 vs OPPO A3x — Kamera Mana yang Lebih Bagus?"
+date: 2026-11-23T12:07:00+07:00
 kategori: "kamera"
 produk_a: "realme C75"
 produk_b: "OPPO A3x"

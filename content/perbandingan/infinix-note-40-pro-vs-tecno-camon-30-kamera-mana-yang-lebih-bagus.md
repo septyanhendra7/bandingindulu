@@ -1,6 +1,6 @@
 ---
-title: "Infinix Note 40 Pro vs Tecno Camon 30: Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T17:07:00+07:00
+title: "Infinix Note 40 Pro vs Tecno Camon 30 — Kamera Mana yang Lebih Bagus?"
+date: 2026-11-23T16:55:00+07:00
 kategori: "kamera"
 produk_a: "Infinix Note 40 Pro"
 produk_b: "Tecno Camon 30"

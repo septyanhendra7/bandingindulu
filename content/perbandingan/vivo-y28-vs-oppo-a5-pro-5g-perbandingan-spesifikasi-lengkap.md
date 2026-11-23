@@ -1,6 +1,6 @@
 ---
-title: "vivo Y28 vs OPPO A5 Pro 5G: Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T22:07:00+07:00
+title: "vivo Y28 vs OPPO A5 Pro 5G — Perbandingan Spesifikasi Lengkap"
+date: 2026-11-23T21:55:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "vivo Y28"
 produk_b: "OPPO A5 Pro 5G"

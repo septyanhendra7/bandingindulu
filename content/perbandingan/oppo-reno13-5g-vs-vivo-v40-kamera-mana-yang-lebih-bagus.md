@@ -1,6 +1,6 @@
 ---
-title: "OPPO Reno13 5G vs vivo V40: Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T15:42:00+07:00
+title: "OPPO Reno13 5G vs vivo V40 — Kamera Mana yang Lebih Bagus?"
+date: 2026-11-23T14:33:00+07:00
 kategori: "kamera"
 produk_a: "OPPO Reno13 5G"
 produk_b: "vivo V40"

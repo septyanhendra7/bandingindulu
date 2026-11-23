@@ -1,6 +1,6 @@
 ---
-title: "OPPO Reno12 5G vs Reno12 Pro 5G: Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T10:42:00+07:00
+title: "OPPO Reno12 5G vs Reno12 Pro 5G — Perbandingan Spesifikasi Lengkap"
+date: 2026-11-23T09:33:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "OPPO Reno12 5G"
 produk_b: "Reno12 Pro 5G"

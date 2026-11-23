@@ -1,5 +1,5 @@
 ---
-title: "Redmi Note 13 Pro vs Infinix Note 40: Perbandingan Spesifikasi Lengkap"
+title: "Redmi Note 13 Pro vs Infinix Note 40 — Perbandingan Spesifikasi Lengkap"
 date: 2026-11-23T08:18:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "Redmi Note 13 Pro"

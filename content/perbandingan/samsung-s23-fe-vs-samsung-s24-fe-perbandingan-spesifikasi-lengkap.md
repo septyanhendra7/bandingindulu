@@ -1,6 +1,6 @@
 ---
-title: "Samsung S23 FE vs Samsung S24 FE: Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T16:55:00+07:00
+title: "Samsung S23 FE vs Samsung S24 FE — Perbandingan Spesifikasi Lengkap"
+date: 2026-11-23T15:42:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "Samsung S23 FE"
 produk_b: "Samsung S24 FE"

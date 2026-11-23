@@ -1,6 +1,6 @@
 ---
-title: "Galaxy A35 5G vs Galaxy A55 5G: Perbandingan Spesifikasi Lengkap"
-date: 2026-11-23T14:33:00+07:00
+title: "Galaxy A35 5G vs Galaxy A55 5G — Perbandingan Spesifikasi Lengkap"
+date: 2026-11-23T13:18:00+07:00
 kategori: "spesifikasi lengkap"
 produk_a: "Galaxy A35 5G"
 produk_b: "Galaxy A55 5G"
