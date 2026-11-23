@@ -1,6 +1,6 @@
 ---
 title: "Infinix Note 40 Pro vs Tecno Camon 30 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T01:05:00+07:00
+date: 2026-11-24T02:05:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "Infinix Note 40 Pro"
 produk_b: "Tecno Camon 30"

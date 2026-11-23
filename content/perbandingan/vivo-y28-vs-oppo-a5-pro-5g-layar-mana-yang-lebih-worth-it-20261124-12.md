@@ -1,6 +1,6 @@
 ---
 title: "vivo Y28 vs OPPO A5 Pro 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T01:10:00+07:00
+date: 2026-11-24T02:10:00+07:00
 kategori: "layar &amp; display"
 produk_a: "vivo Y28"
 produk_b: "OPPO A5 Pro 5G"
