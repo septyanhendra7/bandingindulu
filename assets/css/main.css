@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @variant dark (&:where(.dark, .dark *));
 
+@source "../layouts/**/*.html";
+
 @layer base {
   body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
 }
