@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs POCO X7 — Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T18:18:00+07:00
+date: 2026-11-23T17:32:00+07:00
 kategori: "kamera"
 produk_a: "realme C75"
 produk_b: "POCO X7"
