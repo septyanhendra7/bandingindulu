@@ -15,18 +15,25 @@
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   <script>
     (function(){var t=localStorage.getItem('theme');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.classList.add('dark')}})();
+    document.addEventListener('DOMContentLoaded',function(){
+      var btn=document.getElementById('themeToggle');
+      function upd(){if(btn)btn.textContent=document.documentElement.classList.contains('dark')?'\u2600\uFE0F':'\uD83C\uDF19'}
+      upd();
+      if(btn)btn.addEventListener('click',function(){var d=document.documentElement.classList.toggle('dark');localStorage.setItem('theme',d?'dark':'light');upd()});
+    });
   </script>
 </head>
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 min-h-screen flex flex-col">
   <header class="sticky top-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur border-b border-slate-200 dark:border-slate-800">
-    <nav class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3">
-      <a href="{{ "/" | relURL }}" class="flex items-center gap-2 font-bold text-sky-600 dark:text-sky-400">
-        <img src="{{ "logo-bd.png" | relURL }}" alt="BandinginDulu" class="w-7 h-7 rounded"> BandinginDulu
+    <nav class="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between gap-4">
+      <a href="{{ "/" | relURL }}" class="flex items-center gap-2 font-bold text-sky-600 dark:text-sky-400 whitespace-nowrap">
+        <img src="{{ "logo-bd.png" | relURL }}" alt="BandinginDulu" class="w-7 h-7 rounded flex-none">
+        <span>BandinginDulu</span>
       </a>
-      <div class="ml-auto flex items-center gap-4 text-sm font-medium">
-        <a href="{{ "/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400">Beranda</a>
-        <a href="{{ "artikel/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400">Artikel</a>
-        <button id="themeToggle" class="w-9 h-9 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800" title="Ganti tema">🌙</button>
+      <div class="flex items-center gap-4 text-sm font-medium flex-none">
+        <a href="{{ "/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400 whitespace-nowrap">Beranda</a>
+        <a href="{{ "artikel/" | relURL }}" class="hover:text-sky-600 dark:hover:text-sky-400 whitespace-nowrap">Artikel</a>
+        <button id="themeToggle" class="w-8 h-8 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 flex items-center justify-center flex-none" title="Ganti tema">🌙</button>
       </div>
     </nav>
   </header>
@@ -35,24 +42,15 @@
     {{ block "main" . }}{{ end }}
   </main>
 
-  <footer class="border-t border-slate-200 dark:border-slate-800 mt-12">
-    <div class="max-w-5xl mx-auto px-4 py-8 flex flex-col sm:flex-row justify-between gap-4 text-sm text-slate-500 dark:text-slate-400">
-      <div>
-        <b class="text-sky-600 dark:text-sky-400">BandinginDulu</b> · bandingkan dulu sebelum beli
-        <p class="mt-1">Analisis spesifikasi, bukan pengalaman pakai.</p>
+  <footer class="border-t border-slate-200 dark:border-slate-800 mt-auto bg-white dark:bg-slate-900">
+    <div class="max-w-5xl mx-auto px-4 py-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-slate-500 dark:text-slate-400">
+      <div class="flex items-center gap-2">
+        <img src="{{ "logo-bd.png" | relURL }}" alt="" class="w-5 h-5 rounded">
+        <span><b class="text-sky-600 dark:text-sky-400">BandinginDulu</b> · bandingkan dulu sebelum beli</span>
       </div>
-      <div class="flex gap-4">
-        <a href="{{ "artikel/" | relURL }}" class="hover:text-sky-600">Artikel</a>
-        <a href="{{ "index.json" | relURL }}" class="hover:text-sky-600">Cari</a>
-      </div>
+      <p class="text-xs">Analisis spesifikasi, bukan pengalaman pakai.</p>
     </div>
   </footer>
 
-  <script>
-    var btn=document.getElementById('themeToggle');
-    function upd(){btn.textContent=document.documentElement.classList.contains('dark')?'☀️':'🌙'}
-    upd();
-    if(btn)btn.addEventListener('click',function(){var d=document.documentElement.classList.toggle('dark');localStorage.setItem('theme',d?'dark':'light');upd()});
-  </script>
 </body>
 </html>
