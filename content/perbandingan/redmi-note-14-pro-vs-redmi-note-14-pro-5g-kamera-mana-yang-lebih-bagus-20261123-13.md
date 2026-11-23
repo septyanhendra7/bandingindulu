@@ -1,6 +1,6 @@
 ---
 title: "Redmi Note 14 Pro+ vs Redmi Note 14 Pro 5G — Kamera Mana yang Lebih Bagus?"
-date: 2026-11-23T18:56:00+07:00
+date: 2026-11-23T19:58:00+07:00
 kategori: "kamera"
 produk_a: "Redmi Note 14 Pro+"
 produk_b: "Redmi Note 14 Pro 5G"
