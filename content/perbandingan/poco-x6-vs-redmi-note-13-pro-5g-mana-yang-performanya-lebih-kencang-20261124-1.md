@@ -1,6 +1,6 @@
 ---
 title: "POCO X6 vs Redmi Note 13 Pro 5G — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T07:04:00+07:00
+date: 2026-11-24T08:05:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "POCO X6"
 produk_b: "Redmi Note 13 Pro 5G"
