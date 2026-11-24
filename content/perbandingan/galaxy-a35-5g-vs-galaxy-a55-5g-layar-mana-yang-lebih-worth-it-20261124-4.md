@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A35 5G vs Galaxy A55 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T06:06:00+07:00
+date: 2026-11-24T07:07:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Galaxy A35 5G"
 produk_b: "Galaxy A55 5G"

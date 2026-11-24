@@ -1,6 +1,6 @@
 ---
 title: "Realme C75 vs Redmi Note 14 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T06:17:00+07:00
+date: 2026-11-24T07:18:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "Realme C75"
 produk_b: "Redmi Note 14"
