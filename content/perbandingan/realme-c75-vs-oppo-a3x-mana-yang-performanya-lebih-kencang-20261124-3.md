@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs OPPO A3x — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:09:00+07:00
+date: 2026-11-24T09:11:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "realme C75"
 produk_b: "OPPO A3x"

@@ -1,6 +1,6 @@
 ---
 title: "OPPO Reno13 5G vs vivo V40 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:11:00+07:00
+date: 2026-11-24T09:13:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "OPPO Reno13 5G"
 produk_b: "vivo V40"

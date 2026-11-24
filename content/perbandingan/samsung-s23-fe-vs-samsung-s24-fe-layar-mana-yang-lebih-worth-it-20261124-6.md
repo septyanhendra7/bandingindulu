@@ -1,6 +1,6 @@
 ---
 title: "Samsung S23 FE vs Samsung S24 FE — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:12:00+07:00
+date: 2026-11-24T09:14:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Samsung S23 FE"
 produk_b: "Samsung S24 FE"
