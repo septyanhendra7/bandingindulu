@@ -1,6 +1,6 @@
 ---
 title: "POCO X7 Pro vs realme 13 Pro 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T09:16:00+07:00
+date: 2026-11-24T10:18:00+07:00
 kategori: "layar &amp; display"
 produk_a: "POCO X7 Pro"
 produk_b: "realme 13 Pro 5G"
