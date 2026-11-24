@@ -1,6 +1,6 @@
 ---
 title: "Realme C75 vs Redmi Note 14 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:19:00+07:00
+date: 2026-11-24T08:21:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "Realme C75"
 produk_b: "Redmi Note 14"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP yang paling sering dibandingkan di kelasnya. Kami bedah dari spesifikasi resmi dan sumber terverifikasi.
 
-## Yang tahan banting — vs yang enak dilihat
+## Yang tahan banting vs yang enak dilihat
 
 | Kategori | Realme C75 | Redmi Note 14 |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP yang paling sering dibandingkan di kelasnya. Kami bedah dari spesifikasi 
 | Tahan jatuh | Uji lab: sangat baik | Uji lab: biasa |
 | Tahan air | Sertifikasi IP69 | Tanpa rating resmi |
 
-## Yang cepat lari — dan cepat pindah file
+## Yang cepat lari, dan cepat pindah file
 
 | Kategori | Realme C75 | Redmi Note 14 |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP yang paling sering dibandingkan di kelasnya. Kami bedah dari spesifikasi 
 | Penyimpanan | eMMC 5.1 | UFS 2.2 |
 | Kecepatan RAM | 1800 MHz | 2133 MHz |
 
-## Yang jalan lama — vs yang bertahan lama
+## Yang jalan lama vs yang bertahan lama
 
 | Kategori | Realme C75 | Redmi Note 14 |
 |----------|--------|--------|

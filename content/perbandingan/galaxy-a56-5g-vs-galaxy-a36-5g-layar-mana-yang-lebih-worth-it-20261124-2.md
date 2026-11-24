@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A56 5G vs Galaxy A36 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:06:00+07:00
+date: 2026-11-24T08:08:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Galaxy A56 5G"
 produk_b: "Galaxy A36 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua Galaxy A-series 5G, layar sama besar. Kami bedah dari spesifikasi resmi Samsung.
 
-## Layar sama, — mesin beda kelas
+## Layar sama: mesin beda kelas
 
 | Kategori | Galaxy A56 5G | Galaxy A36 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua Galaxy A-series 5G, layar sama besar. Kami bedah dari spesifikasi resmi Sams
 | Chipset | Exynos 1580 4 nm · 2,9 GHz | Snapdragon 6 Gen 3 4 nm |
 | Pembaruan OS | 6x OS | 6x OS |
 
-## Kamera sama, — pengisian A56 unggul
+## Kamera sama: pengisian A56 unggul
 
 | Kategori | Galaxy A56 5G | Galaxy A36 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua Galaxy A-series 5G, layar sama besar. Kami bedah dari spesifikasi resmi Sams
 | Kamera depan | 12 MP | 12 MP |
 | Baterai | 5.000 mAh · 45 W | 5.000 mAh |
 
-## Sama-sama IP67, — A36 lebih ringan
+## Sama-sama IP67: A36 lebih ringan
 
 | Kategori | Galaxy A56 5G | Galaxy A36 5G |
 |----------|--------|--------|

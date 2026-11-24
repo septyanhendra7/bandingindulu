@@ -1,6 +1,6 @@
 ---
 title: "POCO X7 Pro vs realme 13 Pro 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:12:00+07:00
+date: 2026-11-24T08:14:00+07:00
 kategori: "layar &amp; display"
 produk_a: "POCO X7 Pro"
 produk_b: "realme 13 Pro 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua 5G dengan layar 120 Hz dan kamera 50 MP OIS. Kami bedah dari spesifikasi resmi Xiaomi dan realme.
 
-## Resolusi tajam — vs chipset gaming
+## Resolusi tajam vs chipset gaming
 
 | Kategori | POCO X7 Pro | realme 13 Pro 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua 5G dengan layar 120 Hz dan kamera 50 MP OIS. Kami bedah dari spesifikasi res
 | Kecerahan | 3.200 nits | 2.000 nits |
 | Chipset | Dimensity 8400-Ultra · 4 nm · 3,25 GHz | Snapdragon 7s Gen 2 · 4 nm · 2,4 GHz |
 
-## Kamera sama-sama 50 MP, — video beda kelas
+## Kamera sama-sama 50 MP: video beda kelas
 
 | Kategori | POCO X7 Pro | realme 13 Pro 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua 5G dengan layar 120 Hz dan kamera 50 MP OIS. Kami bedah dari spesifikasi res
 | Kamera depan | 20 MP | 32 MP |
 | Video | 4K 60 fps | 4K 30 fps |
 
-## Baterai jumbo — vs bodi ramping
+## Baterai jumbo vs bodi ramping
 
 | Kategori | POCO X7 Pro | realme 13 Pro 5G |
 |----------|--------|--------|

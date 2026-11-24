@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A35 5G vs Galaxy A55 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:08:00+07:00
+date: 2026-11-24T08:10:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Galaxy A35 5G"
 produk_b: "Galaxy A55 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP Samsung yang paling sering disandingkan. Kami bedah dari spesifikasi resmi kedua model.
 
-## Chipset lebih baru — vs layar yang sama
+## Chipset lebih baru vs layar yang sama
 
 | Kategori | Galaxy A35 5G | Galaxy A55 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP Samsung yang paling sering disandingkan. Kami bedah dari spesifikasi resm
 | Layar | Super AMOLED 6,6&quot; · 120 Hz | Super AMOLED 6,6&quot; · 120 Hz |
 | RAM | Tidak dirinci | Hingga 12 GB |
 
-## Kamera belakang kembar, — selfie beda jauh
+## Kamera belakang kembar: selfie beda jauh
 
 | Kategori | Galaxy A35 5G | Galaxy A55 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP Samsung yang paling sering disandingkan. Kami bedah dari spesifikasi resm
 | Kamera depan | 13 MP | 32 MP |
 | Ketahanan air | IP67 | IP67 |
 
-## Daya sama, — bahan bodi beda
+## Daya sama: bahan bodi beda
 
 | Kategori | Galaxy A35 5G | Galaxy A55 5G |
 |----------|--------|--------|

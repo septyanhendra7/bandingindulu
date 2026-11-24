@@ -1,6 +1,6 @@
 ---
 title: "realme 12 Pro+ 5G vs Infinix Note 40 Pro+ 5G — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:17:00+07:00
+date: 2026-11-24T08:19:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "realme 12 Pro+ 5G"
 produk_b: "Infinix Note 40 Pro+ 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP kelas menengah yang sering disandingkan. Kami bedah dari spesifikasi resmi pabrik.
 
-## Sama-sama AMOLED 120 Hz, — realme chipset lebih kencang
+## Sama-sama AMOLED 120 Hz: realme chipset lebih kencang
 
 | Kategori | realme 12 Pro+ | Infinix Note 40 Pro+ |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP kelas menengah yang sering disandingkan. Kami bedah dari spesifikasi resm
 | Chipset | Snapdragon 7s Gen 2 · 4 nm · 2,4 GHz | Dimensity 7020 · 2,2 GHz |
 | Penyimpanan | RAM 8/12 GB · 128/256 GB | RAM 12 GB · 256 GB UFS 2.2 |
 
-## Infinix 108 MP, — realme bawa periskop 3X
+## Infinix 108 MP: realme bawa periskop 3X
 
 | Kategori | realme 12 Pro+ | Infinix Note 40 Pro+ |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP kelas menengah yang sering disandingkan. Kami bedah dari spesifikasi resm
 | Zoom | Periskop 64 MP · zoom optik 3X | Tidak disebut |
 | Kamera depan | 32 MP | 32 MP |
 
-## realme baterai lebih besar, — Infinix isi lebih cepat
+## realme baterai lebih besar: Infinix isi lebih cepat
 
 | Kategori | realme 12 Pro+ | Infinix Note 40 Pro+ |
 |----------|--------|--------|

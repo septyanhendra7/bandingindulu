@@ -1,6 +1,6 @@
 ---
 title: "Redmi Note 14 Pro+ vs Redmi Note 14 Pro 5G — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:15:00+07:00
+date: 2026-11-24T08:17:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "Redmi Note 14 Pro+"
 produk_b: "Redmi Note 14 Pro 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua Redmi Note 14 Pro dengan layar 1,5K dan kamera 200 MP. Kami bedah dari spesifikasi resmi Xiaomi.
 
-## Layar identik, — chipset beda kelas
+## Layar identik: chipset beda kelas
 
 | Kategori | Redmi Note 14 Pro+ | Redmi Note 14 Pro 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua Redmi Note 14 Pro dengan layar 1,5K dan kamera 200 MP. Kami bedah dari spesi
 | Kecerahan | 3.000 nits | 3.000 nits |
 | Chipset | Snapdragon 7s Gen 3 · hingga 2,5 GHz | Dimensity 7300-Ultra · 2,5 GHz |
 
-## Kamera sama-sama 200 MP, — isi daya beda jauh
+## Kamera sama-sama 200 MP: isi daya beda jauh
 
 | Kategori | Redmi Note 14 Pro+ | Redmi Note 14 Pro 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua Redmi Note 14 Pro dengan layar 1,5K dan kamera 200 MP. Kami bedah dari spesi
 | Kamera depan | 20 MP | 20 MP |
 | Baterai &amp; isi daya | 5.110 mAh · 120 W HyperCharge | 5.110 mAh · 45 W |
 
-## Sama-sama IP68, — bedanya di bobot
+## Sama-sama IP68: bedanya di bobot
 
 | Kategori | Redmi Note 14 Pro+ | Redmi Note 14 Pro 5G |
 |----------|--------|--------|

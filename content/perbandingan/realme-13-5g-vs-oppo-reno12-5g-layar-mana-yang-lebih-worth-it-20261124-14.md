@@ -1,6 +1,6 @@
 ---
 title: "realme 13+ 5G vs OPPO Reno12 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:18:00+07:00
+date: 2026-11-24T08:20:00+07:00
 kategori: "layar &amp; display"
 produk_a: "realme 13+ 5G"
 produk_b: "OPPO Reno12 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua 5G saudara satu grup dengan chipset Dimensity 7300. Kami bedah dari spesifikasi resmi realme dan OPPO.
 
-## Chipset kembar, — layar beda rasa
+## Chipset kembar: layar beda rasa
 
 | Kategori | realme 13+ 5G | OPPO Reno12 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua 5G saudara satu grup dengan chipset Dimensity 7300. Kami bedah dari spesifik
 | Kecerahan | 2.000 nits | 1.200 nits (matahari) |
 | Chipset | Dimensity 7300 Energy · 2,5 GHz | Dimensity 7300-Energy |
 
-## Kamera utama sama-sama 50 MP, — selfie beda jelas
+## Kamera utama sama-sama 50 MP: selfie beda jelas
 
 | Kategori | realme 13+ 5G | OPPO Reno12 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua 5G saudara satu grup dengan chipset Dimensity 7300. Kami bedah dari spesifik
 | Kamera depan | 16 MP | 32 MP |
 | Baterai | 5.000 mAh · 80 W | 5.000 mAh · 3D curved |
 
-## Storage sama-sama UFS 3.1, — pelindung beda
+## Storage sama-sama UFS 3.1: pelindung beda
 
 | Kategori | realme 13+ 5G | OPPO Reno12 5G |
 |----------|--------|--------|

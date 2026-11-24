@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs OPPO A3x — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:07:00+07:00
+date: 2026-11-24T08:09:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "realme C75"
 produk_b: "OPPO A3x"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP entry-level yang tangguh di kelasnya. Kami bedah dari spesifikasi resmi kedua merek.
 
-## Layar jernih — vs layar hemat
+## Layar jernih vs layar hemat
 
 | Kategori | realme C75 | OPPO A3x |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP entry-level yang tangguh di kelasnya. Kami bedah dari spesifikasi resmi k
 | Chipset | Helio G92 Max | Snapdragon 6s 4G Gen1 |
 | Kamera utama | 50 MP · f/1.8 | 8 MP |
 
-## Baterai raksasa — vs bodi ringan
+## Baterai raksasa vs bodi ringan
 
 | Kategori | realme C75 | OPPO A3x |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP entry-level yang tangguh di kelasnya. Kami bedah dari spesifikasi resmi k
 | Pengisian | 45 W | 45 W SUPERVOOC |
 | Berat | 196 g | 186 g |
 
-## Tahan air — vs tahan benturan
+## Tahan air vs tahan benturan
 
 | Kategori | realme C75 | OPPO A3x |
 |----------|--------|--------|

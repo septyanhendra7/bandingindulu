@@ -1,6 +1,6 @@
 ---
 title: "vivo Y28 vs OPPO A5 Pro 5G — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:16:00+07:00
+date: 2026-11-24T08:18:00+07:00
 kategori: "layar &amp; display"
 produk_a: "vivo Y28"
 produk_b: "OPPO A5 Pro 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP 5G entry yang mirip di kertas. Kami bedah dari spesifikasi resmi kedua merek.
 
-## 120Hz vs 90Hz — dan 5G vs 4G
+## 120Hz vs 90Hz, dan 5G vs 4G
 
 | Kategori | Y28 | A5 Pro 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP 5G entry yang mirip di kertas. Kami bedah dari spesifikasi resmi kedua me
 | Chipset | Helio G85 2.0GHz | Dimensity 6300 |
 | Jaringan | 4G | 5G |
 
-## Kamera sama — storage beda
+## Kamera sama: storage beda
 
 | Kategori | Y28 | A5 Pro 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP 5G entry yang mirip di kertas. Kami bedah dari spesifikasi resmi kedua me
 | Kamera depan | 8MP | 8MP |
 | Storage | eMMC 5.1 | UFS 2.2 |
 
-## Kapasitas vs watt — dan bobot
+## Kapasitas vs watt, dan bobot
 
 | Kategori | Y28 | A5 Pro 5G |
 |----------|--------|--------|

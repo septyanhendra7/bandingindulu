@@ -1,6 +1,6 @@
 ---
 title: "OPPO Reno13 5G vs vivo V40 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:09:00+07:00
+date: 2026-11-24T08:11:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "OPPO Reno13 5G"
 produk_b: "vivo V40"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP 5G kamera selfie 50 MP. Kami bedah dari spesifikasi resmi OPPO dan vivo.
 
-## vivo lebih besar, — lebih terang
+## vivo lebih besar: lebih terang
 
 | Kategori | Reno13 5G | vivo V40 |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP 5G kamera selfie 50 MP. Kami bedah dari spesifikasi resmi OPPO dan vivo.
 | Chipset | Dimensity 8350 | Snapdragon 7 Gen 3 4 nm · 2,63 GHz |
 | Penyimpanan | UFS 3.1 | UFS 3.1 |
 
-## ZEISS vs OIS, — selfie sama-sama 50 MP
+## ZEISS vs OIS: selfie sama-sama 50 MP
 
 | Kategori | Reno13 5G | vivo V40 |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP 5G kamera selfie 50 MP. Kami bedah dari spesifikasi resmi OPPO dan vivo.
 | Kamera depan | 50 MP | 50 MP ZEISS |
 | Kaca pelindung | Gorilla Glass 7i | Tidak disebut |
 
-## Reno13 lebih ringan, — vivo lebih tahan air
+## Reno13 lebih ringan: vivo lebih tahan air
 
 | Kategori | Reno13 5G | vivo V40 |
 |----------|--------|--------|

@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs POCO X7 — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:13:00+07:00
+date: 2026-11-24T08:15:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "realme C75"
 produk_b: "POCO X7"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Tahan banting versus layar tajam. Kami bedah dari spesifikasi resmi kedua merek.
 
-## AMOLED 1.5K tajam — vs IPS 90Hz awet
+## AMOLED 1.5K tajam vs IPS 90Hz awet
 
 | Kategori | C75 | POCO X7 |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Tahan banting versus layar tajam. Kami bedah dari spesifikasi resmi kedua merek.
 | Chipset | Helio G92 Max | Dimensity 7300-Ultra |
 | Resolusi | 2400x1080 | 2712x1220 |
 
-## Kamera stabil — vs kamera OIS
+## Kamera stabil vs kamera OIS
 
 | Kategori | C75 | POCO X7 |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Tahan banting versus layar tajam. Kami bedah dari spesifikasi resmi kedua merek.
 | Depan | 8MP | 20MP |
 | Video blk. | 1080p@30 | 4K 24/30fps |
 
-## Baterai jumbo — vs bodi ringan
+## Baterai jumbo vs bodi ringan
 
 | Kategori | C75 | POCO X7 |
 |----------|--------|--------|

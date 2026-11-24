@@ -1,6 +1,6 @@
 ---
 title: "Apple iPhone 15 vs Samsung Galaxy S24 — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:14:00+07:00
+date: 2026-11-24T08:16:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Apple iPhone 15"
 produk_b: "Samsung Galaxy S24"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua HP flagship yang sering disandingkan. Kami bedah dari spesifikasi resmi Apple dan Samsung.
 
-## Layar sama-sama OLED, — S24 unggul 120 Hz
+## Layar sama-sama OLED: S24 unggul 120 Hz
 
 | Kategori | iPhone 15 | Galaxy S24 |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua HP flagship yang sering disandingkan. Kami bedah dari spesifikasi resmi Appl
 | Chipset | A16 Bionic | Deca-Core hingga 3,2 GHz |
 | Kamera depan | 12 MP | 12 MP |
 
-## S24 bawa telephoto 3x, — iPhone bukaan f/1.6
+## S24 bawa telephoto 3x: iPhone bukaan f/1.6
 
 | Kategori | iPhone 15 | Galaxy S24 |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua HP flagship yang sering disandingkan. Kami bedah dari spesifikasi resmi Appl
 | Telephoto | Tidak dicantumkan | 10 MP · zoom 3x |
 | Video | Tidak dicantumkan di halaman resmi | 8K |
 
-## Apple ukur jam video, — S24 sebut mAh & watt
+## Apple ukur jam video: S24 sebut mAh & watt
 
 | Kategori | iPhone 15 | Galaxy S24 |
 |----------|--------|--------|

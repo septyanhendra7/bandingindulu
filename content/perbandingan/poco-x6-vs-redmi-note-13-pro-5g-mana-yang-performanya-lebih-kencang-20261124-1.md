@@ -1,6 +1,6 @@
 ---
 title: "POCO X6 vs Redmi Note 13 Pro 5G — Mana yang Performanya Lebih Kencang?"
-date: 2026-11-24T08:05:00+07:00
+date: 2026-11-24T08:07:00+07:00
 kategori: "performa &amp; chipset"
 produk_a: "POCO X6"
 produk_b: "Redmi Note 13 Pro 5G"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Chipset sama, layar sama, baterai sama. Kami bedah spesifikasi resmi untuk mencari bedanya.
 
-## Layar kembar, — beda di kamera
+## Layar kembar: beda di kamera
 
 | Kategori | POCO X6 | Redmi Note 13 Pro 5G |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Chipset sama, layar sama, baterai sama. Kami bedah spesifikasi resmi untuk menca
 | Resolusi | 2712x1220 · 446 ppi | 1.5K · 120 Hz |
 | Kamera utama | 64 MP · OIS | 200 MP · OIS f/1.65 |
 
-## Bodi lebih ringan — vs kamera depan sama
+## Bodi lebih ringan vs kamera depan sama
 
 | Kategori | POCO X6 | Redmi Note 13 Pro 5G |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Chipset sama, layar sama, baterai sama. Kami bedah spesifikasi resmi untuk menca
 | Kamera depan | 16 MP | 16 MP |
 | Ketahanan air | IP54 | IP54 |
 
-## Chipset & daya — sama persis
+## Chipset & daya: sama persis
 
 | Kategori | POCO X6 | Redmi Note 13 Pro 5G |
 |----------|--------|--------|

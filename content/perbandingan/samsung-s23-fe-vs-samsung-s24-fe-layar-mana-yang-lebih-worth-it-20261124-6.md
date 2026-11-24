@@ -1,6 +1,6 @@
 ---
 title: "Samsung S23 FE vs Samsung S24 FE — Layar Mana yang Lebih Worth It?"
-date: 2026-11-24T08:10:00+07:00
+date: 2026-11-24T08:12:00+07:00
 kategori: "layar &amp; display"
 produk_a: "Samsung S23 FE"
 produk_b: "Samsung S24 FE"
@@ -14,7 +14,7 @@ sumber: "nanoreview, kimovil"
 
 Dua generasi FE yang sering tertukar. Kami bedah dari spesifikasi resmi Samsung.
 
-## Layar lebih besar — vs chipset baru
+## Layar lebih besar vs chipset baru
 
 | Kategori | S23 FE | S24 FE |
 |----------|--------|--------|
@@ -22,7 +22,7 @@ Dua generasi FE yang sering tertukar. Kami bedah dari spesifikasi resmi Samsung.
 | Chipset | Exynos 2200 | Exynos 2400e 4nm |
 | Refresh | 120Hz | 120Hz |
 
-## Racikan kamera — yang sama persis
+## Racikan kamera: yang sama persis
 
 | Kategori | S23 FE | S24 FE |
 |----------|--------|--------|
@@ -30,7 +30,7 @@ Dua generasi FE yang sering tertukar. Kami bedah dari spesifikasi resmi Samsung.
 | Zoom optik | 3x | 3x |
 | Kamera depan | 10MP | 10MP |
 
-## Baterai lebih besar — vs bodi lebih ringkas
+## Baterai lebih besar vs bodi lebih ringkas
 
 | Kategori | S23 FE | S24 FE |
 |----------|--------|--------|
