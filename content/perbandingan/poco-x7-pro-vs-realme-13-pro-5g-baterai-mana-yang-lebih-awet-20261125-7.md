@@ -1,6 +1,6 @@
 ---
 title: "POCO X7 Pro vs realme 13 Pro 5G — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T13:23:00+07:00
+date: 2026-11-25T12:55:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "POCO X7 Pro"
 produk_b: "realme 13 Pro 5G"

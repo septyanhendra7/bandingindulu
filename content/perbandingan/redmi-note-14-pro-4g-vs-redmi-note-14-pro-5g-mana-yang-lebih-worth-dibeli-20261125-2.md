@@ -1,6 +1,6 @@
 ---
 title: "Redmi Note 14 Pro 4G vs Redmi Note 14 Pro 5G — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T09:55:00+07:00
+date: 2026-11-25T08:55:00+07:00
 kategori: "value &amp; harga"
 produk_a: "Redmi Note 14 Pro 4G"
 produk_b: "Redmi Note 14 Pro 5G"

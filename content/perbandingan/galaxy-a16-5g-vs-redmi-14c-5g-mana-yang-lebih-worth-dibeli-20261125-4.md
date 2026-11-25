@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A16 5G vs Redmi 14C 5G — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T11:18:00+07:00
+date: 2026-11-25T10:18:00+07:00
 kategori: "value &amp; harga"
 produk_a: "Galaxy A16 5G"
 produk_b: "Redmi 14C 5G"

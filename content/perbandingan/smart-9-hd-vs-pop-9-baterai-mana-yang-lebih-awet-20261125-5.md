@@ -1,6 +1,6 @@
 ---
 title: "Smart 9 HD vs Pop 9 — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T12:33:00+07:00
+date: 2026-11-25T11:33:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "Smart 9 HD"
 produk_b: "Pop 9"

@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A05s vs Redmi A3x — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T13:25:00+07:00
+date: 2026-11-25T13:21:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "Galaxy A05s"
 produk_b: "Redmi A3x"

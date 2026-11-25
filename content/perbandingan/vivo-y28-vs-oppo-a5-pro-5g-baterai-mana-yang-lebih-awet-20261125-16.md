@@ -1,6 +1,6 @@
 ---
 title: "vivo Y28 vs OPPO A5 Pro 5G — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T08:42:00+07:00
+date: 2026-11-25T13:28:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "vivo Y28"
 produk_b: "OPPO A5 Pro 5G"

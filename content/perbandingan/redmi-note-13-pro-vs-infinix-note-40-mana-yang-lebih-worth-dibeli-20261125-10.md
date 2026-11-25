@@ -1,6 +1,6 @@
 ---
 title: "Redmi Note 13 Pro vs Infinix Note 40 — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T13:26:00+07:00
+date: 2026-11-25T13:22:00+07:00
 kategori: "value &amp; harga"
 produk_a: "Redmi Note 13 Pro"
 produk_b: "Infinix Note 40"

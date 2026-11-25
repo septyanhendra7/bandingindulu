@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs OPPO A3x — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T12:33:00+07:00
+date: 2026-11-25T13:32:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "realme C75"
 produk_b: "OPPO A3x"

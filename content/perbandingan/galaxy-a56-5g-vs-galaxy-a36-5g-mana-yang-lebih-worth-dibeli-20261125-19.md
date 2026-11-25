@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A56 5G vs Galaxy A36 5G — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T11:18:00+07:00
+date: 2026-11-25T13:31:00+07:00
 kategori: "value &amp; harga"
 produk_a: "Galaxy A56 5G"
 produk_b: "Galaxy A36 5G"

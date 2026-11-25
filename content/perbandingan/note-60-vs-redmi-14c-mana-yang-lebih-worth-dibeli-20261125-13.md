@@ -1,6 +1,6 @@
 ---
 title: "Note 60 vs Redmi 14C — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T13:29:00+07:00
+date: 2026-11-25T13:25:00+07:00
 kategori: "value &amp; harga"
 produk_a: "Note 60"
 produk_b: "Redmi 14C"

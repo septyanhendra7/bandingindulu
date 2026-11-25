@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A36 5G vs Galaxy A26 5G — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T10:07:00+07:00
+date: 2026-11-25T09:07:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "Galaxy A36 5G"
 produk_b: "Galaxy A26 5G"

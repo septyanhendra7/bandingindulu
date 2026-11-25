@@ -1,6 +1,6 @@
 ---
 title: "OPPO Reno12 5G vs Reno12 Pro 5G — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T13:27:00+07:00
+date: 2026-11-25T13:23:00+07:00
 kategori: "value &amp; harga"
 produk_a: "OPPO Reno12 5G"
 produk_b: "Reno12 Pro 5G"

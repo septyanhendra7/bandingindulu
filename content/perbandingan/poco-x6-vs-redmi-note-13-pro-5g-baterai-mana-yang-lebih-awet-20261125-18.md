@@ -1,6 +1,6 @@
 ---
 title: "POCO X6 vs Redmi Note 13 Pro 5G — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T10:07:00+07:00
+date: 2026-11-25T13:30:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "POCO X6"
 produk_b: "Redmi Note 13 Pro 5G"
