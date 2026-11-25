@@ -1,6 +1,6 @@
 ---
 title: "Hot 50 5G vs Spark 30C 5G — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T13:05:00+07:00
+date: 2026-11-25T13:28:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "Hot 50 5G"
 produk_b: "Spark 30C 5G"

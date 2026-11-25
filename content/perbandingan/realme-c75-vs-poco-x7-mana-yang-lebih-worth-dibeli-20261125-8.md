@@ -1,6 +1,6 @@
 ---
 title: "realme C75 vs POCO X7 — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T13:01:00+07:00
+date: 2026-11-25T13:24:00+07:00
 kategori: "value &amp; harga"
 produk_a: "realme C75"
 produk_b: "POCO X7"

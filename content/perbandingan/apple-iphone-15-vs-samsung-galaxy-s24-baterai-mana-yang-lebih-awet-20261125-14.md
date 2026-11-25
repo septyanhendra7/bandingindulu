@@ -1,6 +1,6 @@
 ---
 title: "Apple iPhone 15 vs Samsung Galaxy S24 — Baterai Mana yang Lebih Awet?"
-date: 2026-11-25T13:07:00+07:00
+date: 2026-11-25T13:30:00+07:00
 kategori: "baterai &amp; daya tahan"
 produk_a: "Apple iPhone 15"
 produk_b: "Samsung Galaxy S24"

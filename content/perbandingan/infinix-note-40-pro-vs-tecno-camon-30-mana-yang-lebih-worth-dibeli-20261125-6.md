@@ -1,6 +1,6 @@
 ---
 title: "Infinix Note 40 Pro vs Tecno Camon 30 — Mana yang Lebih Worth Dibeli?"
-date: 2026-11-25T12:59:00+07:00
+date: 2026-11-25T13:22:00+07:00
 kategori: "value &amp; harga"
 produk_a: "Infinix Note 40 Pro"
 produk_b: "Tecno Camon 30"
